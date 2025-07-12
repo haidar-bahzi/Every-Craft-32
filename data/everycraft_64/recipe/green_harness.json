@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "harness",
+  "key": {
+    "#": "minecraft:green_wool",
+    "G": "minecraft:glass",
+    "L": "minecraft:leather"
+  },
+  "pattern": ["LLL", "G#G"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:green_harness"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stained_terracotta",
+  "key": {
+    "#": "minecraft:terracotta",
+    "X": "minecraft:brown_dye"
+  },
+  "pattern": ["###", "#X#", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:brown_terracotta"
+  }
+}

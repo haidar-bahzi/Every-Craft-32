@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:diorite"
+  },
+  "pattern": ["###", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:diorite_wall"
+  }
+}

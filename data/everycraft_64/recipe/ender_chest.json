@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:obsidian",
+    "E": "minecraft:ender_eye"
+  },
+  "pattern": ["###", "#E#", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:ender_chest"
+  }
+}

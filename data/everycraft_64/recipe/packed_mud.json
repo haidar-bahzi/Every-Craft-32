@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": ["minecraft:mud", "minecraft:wheat"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:packed_mud"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": "minecraft:bamboo_planks"
+  },
+  "pattern": ["#  ", "## ", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:bamboo_stairs"
+  }
+}

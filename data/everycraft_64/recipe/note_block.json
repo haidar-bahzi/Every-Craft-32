@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "#minecraft:planks",
+    "X": "minecraft:redstone"
+  },
+  "pattern": ["###", "#X#", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:note_block"
+  }
+}

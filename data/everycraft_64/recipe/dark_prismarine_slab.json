@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "minecraft:dark_prismarine"
+  },
+  "pattern": ["###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:dark_prismarine_slab"
+  }
+}

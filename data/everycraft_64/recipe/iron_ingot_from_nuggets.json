@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "iron_ingot",
+  "key": {
+    "#": "minecraft:iron_nugget"
+  },
+  "pattern": ["###", "###", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:iron_ingot"
+  }
+}

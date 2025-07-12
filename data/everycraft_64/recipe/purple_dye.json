@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:blue_dye", "minecraft:red_dye"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:purple_dye"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "~": "minecraft:string"
+  },
+  "pattern": ["~~ ", "~~ ", "  ~"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:lead"
+  }
+}

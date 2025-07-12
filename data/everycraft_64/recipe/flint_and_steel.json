@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["minecraft:iron_ingot", "minecraft:flint"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:flint_and_steel"
+  }
+}

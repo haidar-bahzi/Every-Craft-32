@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:string"
+  },
+  "pattern": ["  #", " #X", "# X"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:fishing_rod"
+  }
+}

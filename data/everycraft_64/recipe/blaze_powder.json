@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:blaze_rod"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:blaze_powder"
+  }
+}

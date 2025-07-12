@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:planks",
+    "@": "minecraft:flint"
+  },
+  "pattern": ["@@", "##", "##"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:fletching_table"
+  }
+}

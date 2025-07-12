@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "bark",
+  "key": {
+    "#": "minecraft:spruce_log"
+  },
+  "pattern": ["##", "##"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:spruce_wood"
+  }
+}

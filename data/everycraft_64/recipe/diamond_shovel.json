@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#minecraft:diamond_tool_materials"
+  },
+  "pattern": ["X", "#", "#"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:diamond_shovel"
+  }
+}

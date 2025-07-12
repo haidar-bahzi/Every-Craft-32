@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:leather"
+  },
+  "pattern": ["XXX", "X X"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:leather_helmet"
+  }
+}

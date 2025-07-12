@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "pink_dye",
+  "ingredients": ["minecraft:pink_petals"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:pink_dye"
+  }
+}

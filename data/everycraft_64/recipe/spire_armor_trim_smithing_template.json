@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "minecraft:purpur_block",
+    "S": "minecraft:spire_armor_trim_smithing_template"
+  },
+  "pattern": ["#S#", "#C#", "###"],
+  "result": {
+    "count": 32,
+    "id": "minecraft:spire_armor_trim_smithing_template"
+  }
+}
